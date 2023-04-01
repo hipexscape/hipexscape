@@ -46,21 +46,21 @@
 
    
 
-  ## My Devices 
+  ### My Devices 
 
-  ### Poco F4  
+  #### Poco F4  
 
-  ### Poco M2 
+  #### Poco M2 
 
-  ### Realme C1 
+  #### Realme C1 
 
-  ### OnePlus 8  
+  #### OnePlus 8  
 
-  ### Redmi 3s  
+  #### Redmi 3s  
 
-  ### Lenovo K4 Note  
+  #### Lenovo K4 Note  
 
-  ### Oneplus 9RT 
+  #### Oneplus 9RT 
 
    
 

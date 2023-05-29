@@ -1,6 +1,6 @@
 # 💫 About Me: 
 
- I am currently a student.<br>I.<br>Coding is just one of my hobbies.<br> 
+ I am currently a student.<br><br>Coding is just one of my hobbies.<br> 
 
   
 

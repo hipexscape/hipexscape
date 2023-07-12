@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-:<br>🔭 I’m currently working on AOSP<br><br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me: Telegram @acex88
+<br>🔭 I’m currently working on AOSP<br><br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📫 How to reach me: Telegram @acex88
 
 ## 🌐 Socials:
 

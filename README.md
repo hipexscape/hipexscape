@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acex69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=4&icon=9&pretty=false)](https://visitcount.itsvg.in) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ugly-kid-af&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=acex69&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

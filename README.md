@@ -16,7 +16,7 @@
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acex88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=raizel69label=Profile%20Views&color=4&icon=9&pretty=false)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=4&icon=9&pretty=false)](https://visitcount.itsvg.in) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=acex88&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,6 +1,6 @@
 ### Hi there this is Abhinav (Raizel) [![](https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=4&icon=9&pretty=false)](https://visitcount.itsvg.in) 
 
-- 🔭 I’m currently working on [![Project-Elixir](https://img.shields.io/badge/Project-Elixir-167b80?style=flat-square&logo=Project-Elixir)](https://github.com/Project-Elixir)
+- 🔭 I’m currently working on crDroid Android and Project Elixir
 - 💻 My current setup is
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
   [![OS:Gentoo](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=Ubuntu)](), 

@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning C++, ASM, python, Java/Kotlin
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about computers 
-- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-abhinav.115260@gmail.com-red?style=flat-square&logo=gmail)](abhinav.115260@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Raizel-blue?style=flat-square&logo=telegram)](https://t.me/acex88), / [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acexxcv69)
+- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-abhinav.115260@gmail.com-red?style=flat-square&logo=gmail)](abhinav.115260@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Raizel-blue?style=flat-square&logo=telegram)](https://t.me/acex88), / [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav.115260)
 
 - I'm maintaining Project Elixir and Crdroid for Poco M2/Redmi 9 or shiva/lancelot and Redmi Note 9 or merlinx [![Redmi 9/Note 9](https://img.shields.io/badge/Redmi%209-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/in/redmi-9/) ,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Raizel-support&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Draizel_roms32&longCache=true)](https://t.me/raizel_roms32)
   

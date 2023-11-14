@@ -1,4 +1,4 @@
-### Hi there this is Abhinav (Raizel) [![](https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=4&icon=9&pretty=false)](https://visitcount.itsvg.in) 
+### Hi there this is Abhinav [![](https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=4&icon=9&pretty=false)](https://visitcount.itsvg.in) 
 
 - 🔭 I’m currently working on droidx and crDroid Android 
 - 💻 My current setup is

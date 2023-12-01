@@ -7,7 +7,7 @@
   [![OS:Android13](https://img.shields.io/badge/OS-Android13-blue?style=flat-square&logo=android)](https://www.android.com/)
   
 
-- 🌱 I’m currently learning C++, ASM, python, Java/Kotlin
+- 🌱 I’m currently learning C++, python, Java/Kotlin
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about computers 
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-abhinav.115260@gmail.com-red?style=flat-square&logo=gmail)](abhinav.115260@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Raizel-blue?style=flat-square&logo=telegram)](https://t.me/acex88), / [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav.115260)

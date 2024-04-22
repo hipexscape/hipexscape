@@ -28,8 +28,7 @@ You can check out this <a href="https://acex88.github.io">website</a>
 
 <h2>How can I reach you?</h2>
 
-<a href="https://t.me/cometscape"><img src="https://img.shields.io/badge/cometacape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="theprajjus@gmail.com"><img src="https://img.shields.io/badge/theprajjus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;<a href="https://forum.xda-developers.com/m/prajjus.10388799/"><img src="https://img.shields.io/badge/PrajjuS-F59714?style=flat-square&logo=xda-developers&logoColor=white" alt="XDA"/></a>
-
+<a href="https://t.me/cometscape"><img src="https://img.shields.io/badge/cometacape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;<a 
 
 <h2>What languages you use and how much do you code?</h2>
 

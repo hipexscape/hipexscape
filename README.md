@@ -23,7 +23,7 @@ I'll probably learn Go soon...
 
 <h2>How can I know more about you?</h2>
 
-You can check out this <a href="https://prajjus.website">website</a> where I usually post my stuffs.
+You can check out this <a href="https://acex88.github.io">website</a> 
 
 
 <h2>How can I reach you?</h2>
@@ -64,4 +64,4 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
-<img src="https://komarev.com/ghpvc/?username=prajjus&label=Profile%20Views&color=000000&style=flat">
+<img src="https://komarev.com/ghpvc/?username=acex88&label=Profile%20Views&color=000000&style=flat">

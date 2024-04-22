@@ -28,7 +28,7 @@ You can check out this <a href="https://acex88.github.io">website</a>
 
 <h2>How can I reach you?</h2>
 
-<a href="https://t.me/cometscape"><img src="https://img.shields.io/badge/cometacape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;<a 
+<a href="https://t.me/cometscape"><img src="https://img.shields.io/badge/cometacape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp; 
 
 <h2>What languages you use and how much do you code?</h2>
 

@@ -8,7 +8,7 @@
 
 Well, no-one special, just an 17 year old Programmer interested in coding, developing, tech, hacking and anime.
 <br>
-Name's <b>Abhinav</b>, <code>acex88.S</code> to be exact. Call me bro if you wanna.
+Name's <b>Abhinav</b>,to be exact. Call me bro if you wanna.
 
 
 <h2>What are you doing currently? What are you learning?</h2>
@@ -47,13 +47,13 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 🌞 Morning                200 commits        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
 🌆 Daytime                700 commits        ████████░░░░░░░░░░░░░░░░░   33.87 % 
 🌃 Evening                300 commits        █████████░░░░░░░░░░░░░░░░   35.63 % 
-🌙 Night                  3000 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+🌙 Night                  3000 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                    39 repos            █████████████░░░░░░░░░░░░   51.39 % 
+Java                    39 repos             █████████████░░░░░░░░░░░░   51.39 % 
 Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Kortin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 

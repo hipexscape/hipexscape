@@ -6,7 +6,7 @@
 
 <h2>Who are you?</h2>
 
-Well, no-one special, just an 17 year old Programmer interested in coding, developing, tech, hacking and anime.
+Well, no-one special, just an 16 year old Programmer interested in coding, developing, tech, hacking and anime.
 <br>
 Name's <b>Abhinav</b>,to be exact. Call me bro if you wanna.
 
@@ -28,7 +28,7 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 
 <h2>How can I reach you?</h2>
 
-<a href="https://t.me/hipexscape"><img src="https://img.shields.io/badge/cometacape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp; 
+<a href="https://t.me/hipexscape"><img src="https://img.shields.io/badge/hipexscape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp; 
 
 <h2>What languages you use and how much do you code?</h2>
 

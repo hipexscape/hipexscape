@@ -35,25 +35,4 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-345.5%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📜 21 Public Repositories 
- > 
-> 🔑 15 Private Repositories 
- > 
-
-
-**I Mostly Code in Java** 
-
-```text
-Java                    39 repos             █████████████░░░░░░░░░░░░   51.39 % 
-Python                   9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Kortin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-```
-
-
-
-
 <img src="ttps://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=000000&style=flat">

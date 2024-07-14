@@ -35,4 +35,4 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-345.5%20thousand%20lines%20of%20code-blue)
 
-<img src="ttps://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=000000&style=flat">
+<img src="https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&color=000000&style=flat">

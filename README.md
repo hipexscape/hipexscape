@@ -6,7 +6,7 @@
 
 <h2>Who are you?</h2>
 
-Well, no-one special, just an 16 year old Programmer interested in coding, developing, tech, hacking and anime.
+Well, no-one special, just high school boy interested in coding, developing, tech, hacking and anime.
 <br>
 Name's <b>Abhinav</b>,to be exact. Call me bro if you wanna.
 

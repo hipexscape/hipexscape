@@ -33,6 +33,6 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 <h2>What languages you use and how much do you code?</h2>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.5%20lacks%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.5%20lakhs%20lines%20of%20code-blue)
 
 [![](https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)

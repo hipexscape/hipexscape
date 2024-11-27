@@ -8,7 +8,7 @@
 
 Well, no-one special, just high school boy interested in coding, developing, tech, hacking and anime.
 <br>
-Name's <b>Abhinav</b>,to be exact. Call me bro if you wanna.
+Name's <b>Abhinav</b>,to be exact. Call me your brother if you wanna.
 
 
 <h2>What are you doing currently? What are you learning?</h2>
@@ -34,5 +34,3 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.5%20lakhs%20lines%20of%20code-blue)
-
-[![](https://visitcount.itsvg.in/api?id=raizel69&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)

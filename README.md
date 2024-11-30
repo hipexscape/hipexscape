@@ -29,8 +29,3 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 <h2>How can I reach you?</h2>
 
 <a href="https://t.me/hipexscape"><img src="https://img.shields.io/badge/hipexscape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp; 
-
-<h2>What languages you use and how much do you code?</h2>
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.5%20lakhs%20lines%20of%20code-blue)

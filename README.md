@@ -8,7 +8,7 @@
 
 Well, no-one special, just high school boy interested in coding, developing, tech, hacking and anime.
 <br>
-Name's <b>Abhinav</b>,to be exact. Call me your brother if you wanna.
+Name's <b>Abhinav</b>,to be exact. Call me your bro if you wanna.
 
 
 <h2>What are you doing currently? What are you learning?</h2>

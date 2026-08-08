@@ -28,7 +28,7 @@ You can check out this <a href="https://hipexscape.github.io">website</a>
 
 <h2>How can I reach you?</h2>
 
-<a href="https://t.me/hipexscape"><img src="https://img.shields.io/badge/hipexscape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp; 
+<a href="https://t.me/hipexscape"><img src="https://img.shields.io/badge/hipexscape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="abhinav.115260@gmail.com"><img src="https://img.shields.io/badge/abhinav.115260@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp; 
 
  ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhinavKumar11) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hipexscape) 
